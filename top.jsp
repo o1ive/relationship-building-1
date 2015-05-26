@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="ja">
-<head>
+<head><!--更新しました -->
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>SeCoRe -トップ画面-</title>
   <link rel="stylesheet" href='${f:url("/css/style.css")}'>
